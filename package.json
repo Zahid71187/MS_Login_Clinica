@@ -1,0 +1,15 @@
+{
+  "name": "ms_login_clinica",
+  "version": "1.0.0",
+  "description": "MICROSERVICIO DE LOGIN PARA SISTEMA DE CLINICA",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
