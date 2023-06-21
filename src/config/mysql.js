@@ -1,4 +1,6 @@
 import mysql from 'mysql2'
+import { promisify } from 'util'
+import LOG from '../commons/logger'
 import {
   MYSQL_HOST,
   MYSQL_DATABASE,
@@ -39,19 +41,19 @@ dbmysql.getConnection(async (err, connection) => {
     }
   }
   if (connection) connection.release()
-  console.log(`Mysql Connected on: ${MYSQL_HOST}`)
+  LOG.info(`Mysql Connected on: ${MYSQL_HOST}`)
   connection.execute(
     `SELECT 1 FROM information_schema.tables WHERE table_schema = ? AND table_name = ? LIMIT 1`,
     ['clinica', 'usuarios'],
     function (err, results, fields) {
       if (results.length > 0) {
-        console.log('La tabla existe')
+        LOG.debug('La tabla existe')
       } else {
         connection.query(createTableUsuariosQuery, (error, results) => {
           if (error) {
-            console.error('Error al crear la tabla:', error)
+            LOG.error('Error al crear la tabla:', error)
           } else {
-            console.log('Tabla creada exitosamente')
+            LOG.debug('Tabla creada exitosamente')
           }
         })
       }
@@ -59,4 +61,5 @@ dbmysql.getConnection(async (err, connection) => {
   )
 })
 
+dbmysql.query = promisify(dbmysql.query)
 export default dbmysql

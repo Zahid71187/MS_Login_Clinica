@@ -1,0 +1,76 @@
+[2023-06-20T21:02:21.094] [][39m [[32mINFO[39m] - [[32mlogin     [39m] Mysql Connected on: localhost
+[2023-06-20T21:02:21.118] [][39m [[36mDEBUG[39m] - [[36mlogin     [39m] La tabla existe
+[2023-06-20T21:04:09.898] [][39m [[32mINFO[39m] - [[32mlogin     [39m] Mysql Connected on: localhost
+[2023-06-20T21:04:09.916] [][39m [[36mDEBUG[39m] - [[36mlogin     [39m] La tabla existe
+[2023-06-20T21:05:35.218] [][39m [[32mINFO[39m] - [[32mdispersion[39m] Mysql Connected on: localhost
+[2023-06-20T21:05:35.236] [][39m [[36mDEBUG[39m] - [[36mdispersion[39m] La tabla existe
+[2023-06-20T21:06:08.704] [][39m [[32mINFO[39m] - [[32mlogin     [39m] Mysql Connected on: localhost
+[2023-06-20T21:06:08.723] [][39m [[36mDEBUG[39m] - [[36mlogin     [39m] La tabla existe
+[2023-06-20T21:06:47.652] [][39m [[32mINFO[39m] - [[32mdispersion[39m] Mysql Connected on: localhost
+[2023-06-20T21:06:47.670] [][39m [[36mDEBUG[39m] - [[36mdispersion[39m] La tabla existe
+[2023-06-20T21:07:42.719] [][39m [[32mINFO[39m] - [[32mclinicaLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:07:42.735] [][39m [[36mDEBUG[39m] - [[36mclinicaLogin[39m] La tabla existe
+[2023-06-20T21:08:13.117] [][39m [[32mINFO[39m] - [[32mMsLogin   [39m] Mysql Connected on: localhost
+[2023-06-20T21:08:13.136] [][39m [[36mDEBUG[39m] - [[36mMsLogin   [39m] La tabla existe
+[2023-06-20T21:08:41.069] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:08:41.088] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:37:06.922] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:37:06.942] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:38:34.201] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:38:34.217] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:39:52.032] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:39:52.051] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:40:13.084] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:40:13.102] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:43:49.408] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:43:49.427] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:43:57.270] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:43:57.314] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:43:57.327] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:44:10.978] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:44:10.980] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] SERVICE: starting saveUser method
+[2023-06-20T21:45:02.606] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:45:02.664] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:45:02.679] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:45:05.003] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:45:05.004] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] SERVICE: starting saveUser method
+[2023-06-20T21:47:40.841] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:47:40.888] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:47:40.909] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:47:45.294] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:47:45.296] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] SERVICE: starting saveUser method
+[2023-06-20T21:47:45.297] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] DAO starting saveUser method
+[2023-06-20T21:47:45.304] [][39m [[91mERROR[39m] - [[91mMsServiceLogin[39m] DAO: saveUser Error: You have tried to call .then(), .catch(), or invoked await on the result of query that is not a promise, which is a programming error. Try calling con.promise().query(), or require('mysql2/promise') instead of 'mysql2' for a promise-compatible version of the query interface. To learn how to use async/await or Promises check out documentation at https://www.npmjs.com/package/mysql2#using-promise-wrapper, or the mysql2 documentation at https://github.com/sidorares/node-mysql2/tree/master/documentation/en/Promise-Wrapper.md
+    at Query.then (C:\Users\zahid\OneDrive\Documentos\GitHub\MS_Login_Clinica\node_modules\mysql2\lib\commands\query.js:43:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2023-06-20T21:47:45.308] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] DAO ending saveUser method
+[2023-06-20T21:47:45.309] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:48:48.260] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:48:48.319] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:48:48.333] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:48:52.879] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:48:52.880] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] SERVICE: starting saveUser method
+[2023-06-20T21:48:52.882] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] DAO starting saveUser method
+[2023-06-20T21:48:52.900] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] DAO ending saveUser method
+[2023-06-20T21:48:52.901] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] result:  ResultSetHeader {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 2,
+  info: '',
+  serverStatus: 2,
+  warningStatus: 0
+}
+[2023-06-20T21:48:52.906] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:50:42.829] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:50:42.884] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:50:42.898] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:51:12.229] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] CONTROLLER: starting saveUser method
+[2023-06-20T21:51:12.230] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] SERVICE: starting saveUser method
+[2023-06-20T21:51:12.231] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] DAO starting saveUser method
+[2023-06-20T21:51:12.249] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] DAO ending saveUser method
+[2023-06-20T21:53:15.178] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:53:15.240] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:53:15.257] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe
+[2023-06-20T21:53:54.942] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Server corriendo en puerto 3000
+[2023-06-20T21:53:55.026] [][39m [[32mINFO[39m] - [[32mMsServiceLogin[39m] Mysql Connected on: localhost
+[2023-06-20T21:53:55.042] [][39m [[36mDEBUG[39m] - [[36mMsServiceLogin[39m] La tabla existe

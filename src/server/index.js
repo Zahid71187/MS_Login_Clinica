@@ -2,6 +2,7 @@ import express from "express";
 import bodyParser from "body-parser";
 import routes from '../routes/index'
 import { PORT } from '../commons/constants'
+import LOG from '../commons/logger'
 import { dbmysql } from '../config/mysql'
 
 
@@ -16,7 +17,7 @@ app.use('/clinica/v1', routes)
 
 app.listen(PORT, () => {
 
-    console.log(`Server corriendo en puerto ${port}`)
+    LOG.info(`Server corriendo en puerto ${port}`)
 })
 
 module.exports = app
